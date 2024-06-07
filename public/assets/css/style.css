@@ -1,0 +1,11 @@
+#content {
+  width: 1200px;
+}
+@media (max-width: 1199.99) {
+}
+
+/* HEADER */
+
+header {
+  background-color: aliceblue;
+}
